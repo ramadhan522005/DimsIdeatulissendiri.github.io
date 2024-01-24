@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #112D4E;
+}
+
+.navbar .nav-custom {
+    color: rgb(0, 0, 0);
+}
+
+.navbar .nav-custom:hover {
+    color: #FCE38A;
+}
+
+.navbar ul {
+    display: list-item;
+}
+
+.navbar .btn{
+    width: 55px;
+    height: 55px;
+    margin-left: 30px;
+}
+
+.hamburger {
+    width: 30px;
+    height: 30px;
+}
+
+.animegirl {
+    width: 300px;
+    height: 350px;
+}
+
+.mainlogo {
+    margin-right: 40px;
+}
+
+.card-img {
+    width: 800px;
+    height: 600px;
+}
+
+.card-img-overlay {
+    margin-top: 160px;
+    margin-left: 100px;
+}
+
+.offcanvas-title {
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.nav-item {
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.card-title {
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.card-text {
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.butbanner {
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: #D71313;
+}
+
+.btn-custom {
+    color: #112D4E;
+}
+
+footer {
+    background-color: #112D4E;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+
+footer p {
+    margin: 0;
+}
+
+
+#profil-penulis {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#profil-penulis ul {
+    list-style: none;
+    padding: 0;
+}
+
+#profil-penulis ul li {
+    margin-bottom: 5px;
+}
+
+
+.container {
+    margin-top: 20px;
+}
